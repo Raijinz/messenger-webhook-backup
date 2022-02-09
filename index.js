@@ -81,7 +81,7 @@ function handleMessage(sender_psid, received_message) {
           "type": "template",
           "payload": {
             "template_type": "button",
-            "text": "Webview test",
+            "text": "ทดสอบ webhook อีกตัวหนึ่ง (Commercial Test)",
             "buttons": [
               {
                 "type": "web_url",
